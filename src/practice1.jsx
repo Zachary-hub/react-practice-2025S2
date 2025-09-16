@@ -99,3 +99,4 @@ function Page() {
 //     <Page />
 // )
 createRoot(document.getElementById("practice1")).render(<Page />)
+
